@@ -1,7 +1,4 @@
 # Loader Check Be Gone
-
-For my own protection and so yall dont get buttfucked, compiled binaries will no longer be released here.
-
 See instructions below on how to remove the warning yourself.
 
 **This *still* only applies to modified MelonLoaders. You don't need to be here if you use official MelonLoader releases.**
