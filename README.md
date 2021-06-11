@@ -1,2 +1,20 @@
-# LoaderCheckBeGone
-Instructions on how to remove an unofficial MelonLoader warning.
+# Loader Check Be Gone
+
+For my own protection and so yall dont get buttfucked, compiled binaries will no longer be released here.
+
+See instructions below on how to remove the warning yourself.
+
+**This *still* only applies to modified MelonLoaders. You don't need to be here if you use official MelonLoader releases.**
+
+# FAQ
+**Q: How do I stop the warning from coming back?**
+
+**A: Simply remove your mod updater plugin/app. Keep in mind you'll lose automatic updates that way though.**
+
+How do I remove the warning myself?
+
+It's pretty easy. Either build from source (see below) without the warning, or use dnspy on their original binary releases. (Edit class > Add References > Remove check > Save)
+
+# Other Info
+The original source code for all of these can be found either in [VRCMods](https://github.com/knah/VRCMods) by knah or [VRChatMods](https://github.com/gompocp/VRChatMods) by Gompo, both under GPL-3.0 license.
+
