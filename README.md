@@ -3,6 +3,8 @@ See instructions below on how to remove the warning yourself.
 
 **This *still* only applies to modified MelonLoaders. You don't need to be here if you use official MelonLoader releases.**
 
+I am not responsible for what you do with this information.
+
 # FAQ
 **Q: How do I stop the warning from coming back?**
 
